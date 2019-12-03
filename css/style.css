@@ -1,0 +1,154 @@
+body{
+	font-family: Lato;
+	font-size: 14px;
+	color: #666;
+}
+header{
+	background-color: #202020;
+
+}
+footer{
+	background-color: #fff;
+	padding: 25px 0;
+	border-top: 1px solid #f6f6f6;
+	color: #333;
+	text-align: center;
+}
+footer img {
+    margin-bottom: 25px;
+    margin-top: 10px;
+}
+
+
+#slides h1 {
+	font-family: Lato;
+	font-size: 100px;
+	font-weight: bold;
+	color: #fff;
+	text-align: center;
+	align-content: center;
+
+
+
+}
+
+#slides h1 span {
+	font-weight: 100;
+	color: #ff9306;
+
+}
+
+#inicio {
+	padding-bottom: 40%;
+}
+
+
+/* IDEA: WELCOMEEEEEE */
+
+#welcome {
+	margin-top: 5%
+}
+
+.titulo {
+	font-size: 50px;
+	font-weight: bold;
+	color: #333;
+	text-align: center;
+	font-style: italic;
+}
+
+#welcomepa {
+	font-size: 12px;
+	margin-top: 3px;
+}
+
+/* IDEA: STRAIGHTTTTT */
+
+
+#straight {
+	margin-top: 5%;
+	background-image: url(../img/bg_pic1.jpg);
+	height: 450px;
+}
+
+#straight .titulo {
+	padding-top: 12%;
+	color: #fff;
+}
+
+#straight p{
+	font-style: italic;
+	font-size: 15px;
+	color: #fff;
+	text-align: center;
+}
+
+/* IDEA: ARRREGLAAAAAAAAR */
+
+.btn-naranja {
+	font-family: Lato;
+	font-size: 15px;
+	font-weight: lighter;
+	color: #fff;
+	text-transform: uppercase;
+	background-color: #ff9306;
+	border-radius: 5px;
+	padding: 5px 30px;
+
+	}
+
+	.btn-naranja:hover {
+		color: #ff9306;
+		background-color: #fff;
+
+		}
+
+/* IDEA: OUREVENTSS */
+
+#ourevents {
+	padding-top: 5%;
+	background-image: url(../img/bg_pic2.jpg);
+	background-repeat: no-repeat;
+	background-size: auto;
+	background-position: right;
+	height: 450px;
+
+}
+
+.ourevents {
+	width: 60px;
+  height: 60px;
+  line-height: 60px;
+  background-color: #ff9306;
+  text-align: center;
+  font-size: 30px;
+  color: #fff;
+  border-radius: 100%;
+	align-content: center;
+	align-items: center;
+
+}
+
+
+
+/* IDEA: FOOTER */
+
+#copy {
+	color: #d2d2d2;
+	margin-top: 10%;
+}
+
+.redes	{
+	margin-top: 3%;
+}
+.redes .fab {
+	width: 80px;
+  height: 80px;
+  line-height: 80px;
+  background-color: #d2d2d2;
+  text-align: center;
+  font-size: 40px;
+  color: #fff;
+  border-radius: 100%;
+
+}
